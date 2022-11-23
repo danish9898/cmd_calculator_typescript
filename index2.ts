@@ -50,5 +50,4 @@ function main(): void {
     main();
   }
 }
-
 main();
